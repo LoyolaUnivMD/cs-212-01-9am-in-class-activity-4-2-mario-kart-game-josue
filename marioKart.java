@@ -1,15 +1,15 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        //Instantiate 2 objects containing names, characters and sppeds
+        //Instantiate 2 objects containing names, characters and speeds.
     MarioKartPlayer Mario = new MarioKartPlayer("Josue","Mario",50);
     MarioKartPlayer Luigi = new MarioKartPlayer("John","Luigi",30);
-   // Display both of the user's information
+   // Display both of the user's information.
     System.out.println("Player 1:");
     Mario.displayInfo();
     System.out.println("\nPlayer 2:");
     Luigi.displayInfo();
-    //Call the boost method to increase their speeds
+    //Call the boost method to increase their speeds.
     Mario.boost();
     Luigi.boost();
     //Call the display method for the user to see their new speed.

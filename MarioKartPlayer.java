@@ -16,7 +16,7 @@ public int boost(){
     return speed;
 
 }
-    // Create a display info method which returns nothing but display the user info.
+    // Create a display info method which returns nothing but display the user info..
 public void displayInfo(){
     System.out.println("Player info\nPlayer name: " + playerName + "\nCharacter: " + character + "\nSpeed: " + speed);
 }
