@@ -1,4 +1,11 @@
-
+// Programmers:  Josue Sanchez
+// Course:  CS 212
+// Due Date: 2/8/2024
+// In class activity: phone bill
+// Problem Statement: Create a class and mario kart game
+// Data In: none
+// Data Out: Player info, speed, and character
+// Credits: Class notes from John Nweke
 class HelloWorld {
     public static void main(String[] args) {
         //Instantiate 2 objects containing names, characters and speeds.
